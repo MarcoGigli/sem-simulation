@@ -1,0 +1,4 @@
+pandas==1.2.1
+numpy==1.20.3
+scipy==1.4.1
+#jupyterlab>=1.2.21 #just for notebooks
