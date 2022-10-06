@@ -4,6 +4,8 @@ from scipy.stats import binom, uniform
 import pandas as pd
 from random import shuffle
 
+a=1
+
 # Estimate of CTR for ad position on the serp
 CTR = [7.06, 2.96, 2.1, 2.06, 1.48, 0.96, 0.9, 0.74, 0.52]
 
